@@ -87,9 +87,6 @@ amunet-chatbot/
 - Shreya GS (4MH21CS091)
 - Shreyas Gowda S (4MH21CS092)
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ### Additional Notes
 - Ensure your microphone and speakers are functioning correctly for voice interactions.
 - If you encounter any issues, please open an issue on the GitHub repository or contact the contributors.
