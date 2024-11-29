@@ -33,7 +33,7 @@ Amunet is a state-of-the-art chatbot designed to assist users with a wide range 
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ShreyasGowda28/amunet-chatbot.git
+    git clone https://github.com/shreyags2802/Amunet_bot.git
     cd amunet-chatbot
     ```
 
